@@ -1,0 +1,26 @@
+{
+  "name": "ejemplojest",
+  "version": "1.0.0",
+  "description": "Ejemplo de jest",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eaquinof/EjemploJest.git"
+  },
+  "keywords": [
+    "jest",
+    "testing"
+  ],
+  "author": "Edgar Aquino",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eaquinof/EjemploJest/issues"
+  },
+  "homepage": "https://github.com/eaquinof/EjemploJest#readme",
+  "devDependencies": {
+    "jest": "^28.1.3"
+  }
+}
